@@ -1,2 +1,2 @@
 RewriteEngine On
-RewriteRule ^tracker.jpg$ index.php?tracker
+RewriteRule ^etag.txt$ etag.php
